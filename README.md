@@ -17,7 +17,7 @@
 </p>
 
 ### 🗂️ Experience 
-- 🏢 DAOU Tech
+- 🏢 Daou Tech Inc.
 - 📘 SSAFY 11th
 - 📕 Apple Developer Academy @Postech
 - 🏫 Konkuk Univ. 
