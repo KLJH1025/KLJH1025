@@ -17,10 +17,10 @@
 </p>
 
 ### 🗂️ Experience 
-- 🏢 Daou Tech Inc.
-- 📘 SSAFY 11th
-- 📕 Apple Developer Academy @Postech
-- 🏫 Konkuk Univ. 
+- 🏢 Daou Tech Inc. (2024.08 ~ )
+- 📘 SSAFY 11th (2024.01 ~ 2024.07)
+- 📕 Apple Developer Academy @Postech (2023.03 ~ 2023.12)
+- 🏫 Konkuk Univ. (2016.03 ~ 2023.08)
 
 
 <p>
