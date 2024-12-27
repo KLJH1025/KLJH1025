@@ -17,7 +17,8 @@
 </p>
 
 ### 🗂️ Experience 
-- 🏢 Daou Tech Inc. (2024.08 ~ )
+- 💼 Samsung SDS (2025.01 ~ )
+- 🏢 Daou Tech Inc. (2024.08 ~ 2024.12)
 - 📘 SSAFY 11th (2024.01 ~ 2024.07)
 - 📕 Apple Developer Academy @Postech (2023.03 ~ 2023.12)
 - 🏫 Konkuk Univ. (2016.03 ~ 2023.08)
